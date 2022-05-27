@@ -1,1 +1,2 @@
 name: Trying git approval workflow
+on: pull_request_review
